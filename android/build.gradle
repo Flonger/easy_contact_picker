@@ -1,4 +1,4 @@
-group 'com.liuwei.easy_contact_picker'
+group 'com.flonger.easy_contact_picker'
 version '1.0-SNAPSHOT'
 
 buildscript {

@@ -1,4 +1,4 @@
-package com.liuwei.easy_contact_picker;
+package com.flonger.easy_contact_picker;
 
 import android.app.Activity;
 import android.content.ContentResolver;
